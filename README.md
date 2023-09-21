@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Nikita Kanivets
 
-* I'm a Junior Full-stack developer.
+* I'm a Full-stack developer.
 * Open to work, remote or Taganrog/Rostov-on-Don.
 
 ### &#x1F9D1;&#x200D;&#x1F4BB; My technology stack
